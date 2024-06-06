@@ -1,0 +1,5 @@
+4
+Moscow, Stroitelei, 34, 12
+Omsk, Pushkina, 2, 13
+Novosibirsk, Mira, 85, 64
+Test_Town, Test_street, 12, 34
